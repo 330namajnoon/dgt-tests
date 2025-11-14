@@ -3,9 +3,9 @@ module.exports = {
         {
             name: "tgt-tests",
             script: "./index.js",
-			watch: true,
+			watch: false,
             env: {
-                PORT: 3000,
+                PORT: 5000,
             },
         },
     ],
