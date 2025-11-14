@@ -9,6 +9,7 @@ import Typography from "@mui/material/Typography";
 import { Box, Container } from "@mui/system";
 import { useSetAnswerMutation } from "../../features/dgt/dgtAnswerApiSlice";
 import { BASE_URL } from "../../../constants";
+import { useGetPointsQuery } from "../../features/dgt/dgtEvaluationApiSlice";
 
 const QuestionsPage = () => {
     const [issue, setIssue] = useState("0");
@@ -17,6 +18,7 @@ const QuestionsPage = () => {
     const { data: randomQuestionData } = useGetRandomQuestionQuery(issiusesData?.[parseInt(issue)], {
         skip: !issiusesData,
     });
+    const { data: pointsData } = useGetPointsQuery();
 
     const [setAnswerMutation] = useSetAnswerMutation();
 
@@ -41,6 +43,13 @@ const QuestionsPage = () => {
                     ))}
                 </Select>
             </FormControl>
+            <Container>
+                <Box>
+                    <Typography variant="h1">
+                        {pointsData?.points}
+                    </Typography>
+                </Box>
+            </Container>
             <Container>
                 <Box mt={4}>
                     <Typography variant="h5">{randomQuestionData?.question}</Typography>
