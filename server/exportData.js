@@ -14,7 +14,7 @@ const https = require("https");
     while (true) {
 		await page.goto("http://lateoricaendirecto.com/tests-online/test-por-temas");
 
-        const issues = "vehículos"; // Cambia esto por el tema que desees
+        const issues = "La vía"; // Cambia esto por el tema que desees
         await page.evaluate((issues) => {
             const links = Array.from(document.querySelectorAll("a"));
             const link = links.find((l) => l.text.includes(issues));

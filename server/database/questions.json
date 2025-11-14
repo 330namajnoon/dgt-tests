@@ -2605,5 +2605,2083 @@
         "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1005.jpg",
         "id": 225,
         "imageSrc": "/images/th_1005.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Se puede atravesar la línea del borde de la calzada, que delimita con el arcén?.",
+        "answers": [
+            "Sí, si es discontinua.",
+            "No, si es continua.",
+            "Sí, tanto si es continua como si es discontinua."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1715.jpg",
+        "id": 226,
+        "imageSrc": "/images/th_1715.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si conduce una motocicleta, ¿qué separación lateral debe mantener al cruzarse con otro vehículo?.",
+        "answers": [
+            "Una distancia menor de 1,50 metros fuera de poblado",
+            "Una distancia máxima de 1,50 metros en poblado.",
+            "La necesaria para realizar el cruce con seguridad."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1063.jpg",
+        "id": 227,
+        "imageSrc": "/images/th_1063.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Cuando los ciclistas circulen por el arcén, ¿podrán abandonarlo si la seguridad lo permite?.",
+        "answers": [
+            "Sí, siempre que lo crean conveniente.",
+            "Sí, en los descensos prolongados con curvas, salvo en autovías.",
+            "No, si disponen de arcén nunca pueden circular por la calzada."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2201.jpg",
+        "id": 228,
+        "imageSrc": "/images/th_2201.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Por obras en la calzada se habilita un carril para la circulación en sentido contrario al habitual, ¿Qué vehículos pueden utilizarlo?.",
+        "answers": [
+            "Todos los vehículos autorizados a circular por la vía, salvo prohibición expresa.",
+            "Turismos sin remolque, vehículos mixtos adaptables y motocicletas.",
+            "Únicamente turismos sin remolque y motocicletas."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1013.jpg",
+        "id": 229,
+        "imageSrc": "/images/th_1013.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Está permitido circular con su turismo por el arcén de esta vía?.",
+        "answers": [
+            "No, salvo cuando por razones de emergencia circule a velocidad anormalmente reducida y sea un obstáculo.",
+            "No, en ningún caso.",
+            "Sí, si va a salir de la vía por un carril de deceleración."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2159.jpg",
+        "id": 230,
+        "imageSrc": "/images/th_2159.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué vehículos tienen permitido circular por un carril habilitado, por razones de fluidez, en sentido contrario al habitual?.",
+        "answers": [
+            "Sólo turismos y motocicletas.",
+            "Automóviles y vehículos con remolque hasta 750 kg de MMA.",
+            "Automóviles que superen los 3.500 Kg de MMA y motocicletas."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1306.jpg",
+        "id": 231,
+        "imageSrc": "/images/th_1306.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Cuándo debe ceñirse especialmente al borde derecho de la calzada?.",
+        "answers": [
+            "Cuando circule en sentido contrario.",
+            "Cuando la circulación esté saturada.",
+            "En los cambios de rasante y curvas de visibilidad reducida."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1970.jpg",
+        "id": 232,
+        "imageSrc": "/images/th_1970.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Por una autovía que discurre por suelo urbano, el conductor de un turismo, como norma general, debe…",
+        "answers": [
+            "Utilizar el carril izquierdo.",
+            "Utilizar el carril que convenga a su destino.",
+            "Circular por el carril de la derecha."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_776.jpg",
+        "id": 233,
+        "imageSrc": "/images/th_776.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por qué carril se debe circular en una autopista de tres carriles, cuando el carril derecho está libre?",
+        "answers": [
+            "Si la autopista está dentro de poblado, siempre por el carril central.",
+            "Por el carril izquierdo.",
+            "Por el carril derecho, como norma general."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2339.jpg",
+        "id": 234,
+        "imageSrc": "/images/th_2339.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Las autovías y las autopistas, en general, son en relación con las carreteras convencionales...",
+        "answers": ["Más seguras.", "Menos seguras.", "Igual de seguras."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3540.jpg",
+        "id": 235,
+        "imageSrc": "/images/th_3540.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Cuando en una vía de sentido único existe un refugio o isleta, ¿por qué parte de la calzada se debe circular?.",
+        "answers": [
+            "Por la parte de la calzada que queda a la izquierda del refugio o isleta, únicamente. ",
+            "Por la parte de la calzada que queda a la derecha del refugio o isleta, únicamente. ",
+            "Por cualquiera de los dos lados."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3242.jpg",
+        "id": 236,
+        "imageSrc": "/images/th_3242.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Conduce su turismo y llega a una intersección que es una glorieta, ¿dónde dejará el centro de la misma?.",
+        "answers": ["A mi derecha.", "A mi izquierda.", "Indistintamente. "],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3258.jpg",
+        "id": 237,
+        "imageSrc": "/images/th_3258.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía urbana con un carril para cada sentido, ¿por dónde debe circular, con carácter general?.",
+        "answers": [
+            "En tramos rectos, por el centro de la calzada.",
+            "Lo más cerca posible del borde derecho de la calzada.",
+            "Por la zona que mejor convenga."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2057.jpg",
+        "id": 238,
+        "imageSrc": "/images/th_2057.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si no existe vía o parte de ella que les esté especialmente destinada, circularán por el arcén…",
+        "answers": [
+            "Los turismos con remolque.",
+            "Cualquier vehículo en supuestos de tráfico denso.",
+            "Los vehículos para personas de movilidad reducida."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_127.jpg",
+        "id": 239,
+        "imageSrc": "/images/th_127.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una glorieta de una vía interurbana con dos carriles para su sentido, ¿por dónde debe circular?.",
+        "answers": [
+            "Por cualquiera de los carriles, es indiferente.",
+            "Por el carril de la derecha, usando el otro carril si las circunstancias lo aconsejan, sin cortar la trayectoria a otros vehiculos.",
+            "Por el carril de la izquierda."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1168.jpg",
+        "id": 240,
+        "imageSrc": "/images/th_1168.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede circular con su motocicleta por un carril bus?.",
+        "answers": [
+            "Sí, en caso de circulación muy densa.",
+            "Sí, pero sólo para adelantar y durante el recorrido indispensable.",
+            "No, con carácter general."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3479.jpg",
+        "id": 241,
+        "imageSrc": "/images/th_3479.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Al incorporarse a la autopista por el carril de aceleración, debe…",
+        "answers": [
+            "Disminuir la velocidad y detenerse al final del carril, obligatoriamente.",
+            "Acelerar hasta alcanzar obligatoriamente 120 km/h al final del carril.",
+            "Acelerar hasta alcanzar la velocidad adecuada al final del carril."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1277.jpg",
+        "id": 242,
+        "imageSrc": "/images/th_1277.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": " A un turismo, ¿cuándo le está permitido circular por el arcén?.",
+        "answers": [
+            " En ningún caso.",
+            "Por razones de fluidez, siempre que el tráfico esté congestionado.",
+            "Cuando por razones de emergencia, circule a velocidad anormalmente reducida."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4661.jpg",
+        "id": 243,
+        "imageSrc": "/images/th_4661.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si circula conduciendo una motocicleta en el interior de un túnel, ¿qué distancia de seguridad deberá guardar con el que le precede si no pretende adelantar?",
+        "answers": [
+            "100 metros como mínimo.",
+            "150 metros como mínimo.",
+            "El doble de la longitud del vehículo que va delante."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4751.jpg",
+        "id": 244,
+        "imageSrc": "/images/th_4751.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una glorieta de una vía interurbana con dos carriles para un mismo sentido, ¿por dónde debe circular un vehículo?.",
+        "answers": [
+            "Por el carril de la derecha, ya que en las glorietas está prohibido adelantar.",
+            "Por el carril que mejor convenga al destino.",
+            "Por el carril de la derecha, usando el otro carril si las circunstancias lo aconsejan. "
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1849.jpg",
+        "id": 245,
+        "imageSrc": "/images/th_1849.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Los vehículos que circulen por el arcén tienen prohibido circular en posición paralela, excepto...",
+        "answers": ["Las bicicletas.", "Los ciclomotores y las motocicletas.", "Los que circulen muy despacio."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3776.jpg",
+        "id": 246,
+        "imageSrc": "/images/th_3776.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta calzada de doble sentido de circulación, ¿se puede utilizar el carril izquierdo?.",
+        "answers": [
+            "No para circular, pero sí para hacer cualquier maniobra.",
+            "No, en ningún caso.",
+            "Sólo para adelantar en vías fuera de poblado."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_702.jpg",
+        "id": 247,
+        "imageSrc": "/images/th_702.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En la vía de la fotografía, ¿qué carril debe utilizar para circular, como norma general?.",
+        "answers": [
+            "El carril central, siempre que mi velocidad sea igual o superior a la indicada en la señal.",
+            "Cualquiera de los carriles de mi sentido de la marcha.",
+            "El carril situado más a la derecha."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3935.jpg",
+        "id": 248,
+        "imageSrc": "/images/th_3935.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una calzada con tres carriles y doble sentido de circulación, que esten delimitados por marcas longitudinales discontinuas, si quiere girar a la izquierda en que carril debe situarse ....",
+        "answers": [
+            " El carril más situado a la derecha. ",
+            " El carril central.",
+            "El carril más situado a  la izquierda."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_381.jpg",
+        "id": 249,
+        "imageSrc": "/images/th_381.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué carriles debe utilizar para pagar el peaje de esta autopista?.",
+        "answers": [
+            "Los carriles con flecha verde.",
+            "Los carriles de aspa roja.",
+            "Cualquier carril permite el pago."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4401.jpg",
+        "id": 250,
+        "imageSrc": "/images/th_4401.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Una motocicleta, ¿puede utilizar normalmente un carril VAO?.",
+        "answers": [
+            "No, solo pueden utilizarlo turismos.",
+            "Sí.",
+            "Sí, pero siempre que en dicho carril no exista tráfico."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4615.jpg",
+        "id": 251,
+        "imageSrc": "/images/th_4615.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Cuántos carriles tiene una calzada?.",
+        "answers": [
+            "Dos en todo caso.",
+            "Uno si es de sentido único; o dos si es de doble sentido. ",
+            "Tantos como filas de automóviles, que no sean motocicletas, puedan circular en paralelo. "
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3178.jpg",
+        "id": 252,
+        "imageSrc": "/images/th_3178.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si la vía está dividida en tres calzadas, ¿cómo debemos circular?.",
+        "answers": [
+            "Por la calzada lateral en un solo sentido, y la central para adelantar o cambiar de dirección a la izquierda.",
+            "Por las calzadas laterales en un solo sentido, y por la central en uno o en dos sentidos según la situación.",
+            "Por la calzada que más convenga a nuestro destino."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1754.jpg",
+        "id": 253,
+        "imageSrc": "/images/th_1754.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor del turismo amarillo...",
+        "answers": [
+            "Circula por un carril reversible.",
+            "No puede utilizar este carril.",
+            "Debe llevar al menos dos ocupantes."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3905.jpg",
+        "id": 254,
+        "imageSrc": "/images/th_3905.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Enciende el intermitente izquierdo para cambiar de carril",
+        "answers": [
+            "Al recorrer 200 metros por el nuevo carril.",
+            "Cuando vuelva al carril derecho.",
+            "Cuando ya he cambiado de carril."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4362.jpg",
+        "id": 255,
+        "imageSrc": "/images/th_4362.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Por una autovía está prohibida la circulación de...",
+        "answers": ["Ciclomotores.", "Turismos con remolque.", "Vehículos especiales."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3563.jpg",
+        "id": 256,
+        "imageSrc": "/images/th_3563.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Como norma general, y muy especialmente en las curvas y cambios de rasante de reducida visibilidad, los vehículos circularán por …",
+        "answers": [
+            "El centro de la calzada, por ser más seguro.",
+            "La derecha, y lo más cerca posible del centro de la calzada.",
+            "La derecha, y lo más cerca posible del borde de la calzada."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_423.jpg",
+        "id": 257,
+        "imageSrc": "/images/th_423.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Cuando en una vía de doble sentido existe un refugio o isleta, ¿por qué parte de la calzada se debe circular?.",
+        "answers": [
+            "Por la parte de la calzada que queda a la derecha del refugio o isleta en el sentido de la marcha, y lo dejaré a la izquierda. ",
+            "Por cualquiera de los dos lados. ",
+            "Por la parte de la calzada que queda a la izquierda del refugio o isleta, únicamente, y lo dejaré a la derecha. "
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3226.jpg",
+        "id": 258,
+        "imageSrc": "/images/th_3226.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El carril reversible está abierto",
+        "answers": ["No.", "Sí, porque la línea es discontinua.", "Sí, porque el carril de la izquierda está libre."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_85.jpg",
+        "id": 259,
+        "imageSrc": "/images/th_85.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede usted con su turismo circular por el carril BUS-TAXI si la marca del carril es discontinua?.",
+        "answers": ["No, está prohibido. ", "Sí, para adelantar. "],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3339.jpg",
+        "id": 260,
+        "imageSrc": "/images/th_3339.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un carril reversible…",
+        "answers": [
+            "No debe cambiar nunca de carril salvo para adelantar.",
+            "Debe circular como máximo a 100 km/h y como mínimo a 60 km/h.",
+            "Debe llevar encendida la luz de cruce, siempre."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1275.jpg",
+        "id": 261,
+        "imageSrc": "/images/th_1275.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué separación lateral están obligadas a dejar las motocicletas al cruzarse con otros vehículos que circulen en sentido contrario?.",
+        "answers": [
+            "1,5 metros como máximo.",
+            "Una separación lateral suficiente para que el cruce pueda realizarse con seguridad y sin peligro.",
+            "1,5 metros como mínimo en cualquier caso."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3703.jpg",
+        "id": 262,
+        "imageSrc": "/images/th_3703.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si usted desea abandonar la vía por la que circula utilizando el carril de deceleración, ¿cuál será su comportamiento?.",
+        "answers": [
+            "Me situaré en el carril más próximo para entrar en él lo antes posible y una vez dentro reduciré la velocidad.",
+            "Comenzaré a frenar antes de entrar en el carril.",
+            "Entraré en él lo más tarde posible."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4527.jpg",
+        "id": 263,
+        "imageSrc": "/images/th_4527.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si en el centro de una calzada de sentido único existe una isleta, como norma general circulará…",
+        "answers": [
+            "Por la izquierda .",
+            "Siempre por la derecha en el sentido de la marcha.",
+            "Indistintamente por la derecha o por la izquierda."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2193.jpg",
+        "id": 264,
+        "imageSrc": "/images/th_2193.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Excepcionalmente, y en condiciones de seguridad, en vías que no sean autopistas o autovías, ¿se permite el arrastre de un vehículo por otro no destinado a este fin?.",
+        "answers": [
+            "No.",
+            "Sí, siempre que no se recorran más de 10 kilómetros.",
+            "Sí, pero sólo hasta el lugar más próximo donde pueda quedar convenientemente inmovilizado."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4609.jpg",
+        "id": 265,
+        "imageSrc": "/images/th_4609.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué indica la flecha pintada en la calzada?.",
+        "answers": [
+            "La dirección del ramal de la próxima salida.",
+            "Que el carril en el que está situada termina próximamente.",
+            "La proximidad de una línea continua."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3744.jpg",
+        "id": 266,
+        "imageSrc": "/images/th_3744.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Los camiones, ¿pueden utilizar un carril abierto a la circulación en sentido contrario al normal?.",
+        "answers": [
+            "Sí, cuando el carril se ha abierto por obras en la calzada.",
+            "No, nunca.",
+            "Sí, siempre que circulen con la luz de cruce encendida."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1438.jpg",
+        "id": 267,
+        "imageSrc": "/images/th_1438.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta situación de aglomeración, ¿podrá circular por el arcén?.",
+        "answers": ["Sí, si tiene prisa.", " No, está prohibido.", "Sí, para descongestionar el tráfico."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4648.jpg",
+        "id": 268,
+        "imageSrc": "/images/th_4648.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si Ud",
+        "answers": [
+            "No, ni siquiera para adelantar.",
+            "Sí, siempre que no se alteren los elementos de balizamiento con los que está señalizado dicho carril.",
+            "Sí, para adelantar o cambiar el sentido de la marcha."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4513.jpg",
+        "id": 269,
+        "imageSrc": "/images/th_4513.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un vehículo que ostenta la señal V-15, indicativa de que el conductor es una persona con discapacidad, ¿puede utilizar un carril VAO?.",
+        "answers": [
+            "Sí, aun cuando sólo lo ocupe su conductor.",
+            "No.",
+            "Sí, siempre que esté ocupado por el número de personas fijado para ese tramo."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4557.jpg",
+        "id": 270,
+        "imageSrc": "/images/th_4557.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Deben circular por la calzada y no por el arcén todos los automóviles y...",
+        "answers": [
+            "Los vehículos especiales con MMA no superior a 3.500 kilogramos.",
+            "Los vehículos especiales con MMA superior a 3.500 kilogramos.",
+            "Todos los vehículos especiales."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2038.jpg",
+        "id": 271,
+        "imageSrc": "/images/th_2038.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En vías divididas en tres calzadas, la central podrá estar destinada a la circulación en …",
+        "answers": [
+            "Los dos sentidos o en sentido único, según disponga la señalización.",
+            "Sentido único, en cualquier caso.",
+            "Los dos sentidos, siempre."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_337.jpg",
+        "id": 272,
+        "imageSrc": "/images/th_337.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un cambio de rasante es...",
+        "answers": [
+            "Un lugar en el que se encuentran dos tramos de vía de distinta inclinación.",
+            "Un tramo de vía donde hay un cambio de dirección.",
+            "Un tramo de vía donde no se ve el ancho total de la calzada."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3568.jpg",
+        "id": 273,
+        "imageSrc": "/images/th_3568.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía interurbana con tres o más carriles para el mismo sentido, un conjunto de vehículos de más de 7 metros, ¿puede utilizar el carril inmediato al derecho?.",
+        "answers": [
+            "Sí, si las circunstancias del tráfico o de la vía lo aconsejan y no entorpece la marcha de otro vehículo que le siga.",
+            "No, solo puede circular por el carril derecho",
+            "Sí, en cualquier caso."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1635.jpg",
+        "id": 274,
+        "imageSrc": "/images/th_1635.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un carril delimitado por marcas longitudinales dobles discontinuas es un carril…",
+        "answers": ["De utilización en sentido contrario al habitual.", "Adicional de circulación.", "Reversible."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_143.jpg",
+        "id": 275,
+        "imageSrc": "/images/th_143.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor de un conjunto de vehículos de más de 3.500 kg de MMA que circula por un túnel y no pretende adelantar debe dejar con el vehículo que le precede una separación de al menos…",
+        "answers": ["100 metros.", "150 metros.", "50 metros."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_470.jpg",
+        "id": 276,
+        "imageSrc": "/images/th_470.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Su turismo con remolque mide 7 metros, ¿puede utilizar el tercer carril (izquierdo) de esta calzada de la autopista?.",
+        "answers": [
+            "Sí, porque no supera los 7 metros. ",
+            "No, porque debe circular por el de la derecha pudiendo utilizar sólo el contiguo si las circustancias lo aconsejan. "
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3307.jpg",
+        "id": 277,
+        "imageSrc": "/images/th_3307.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En caso de circular por una vía acondicionada con una raqueta u otro elemento similar, ¿se debe utilizar dicho elemento para realizar un giro?.",
+        "answers": [
+            "No, es indiferente.",
+            "Sí, pero solo si lo indica una señal.",
+            "Sí, aunque no exista una señal que lo indique."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2234.jpg",
+        "id": 278,
+        "imageSrc": "/images/th_2234.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta curva con visibilidad, ¿está permitido invadir momentáneamente el sentido contrario?.",
+        "answers": [
+            "No, porque siempre debe circular por la derecha y lo más cerca posible del borde de la calzada.",
+            "Sí, porque no existe ninguna señal que lo prohíba.",
+            "Sí, si comprueba que no pone en peligro a los vehículos que circulen en sentido contrario"
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1831.jpg",
+        "id": 279,
+        "imageSrc": "/images/th_1831.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía con un carril para cada sentido, debe circular…",
+        "answers": [
+            "Lo más cerca posible del borde derecho de la calzada.",
+            "Por la zona que mejor convenga a su destino.",
+            "En tramos rectos, por el centro de la calzada."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1874.jpg",
+        "id": 280,
+        "imageSrc": "/images/th_1874.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede circular conduciendo un ciclomotor por una vía interurbana sin arcén?.",
+        "answers": [
+            "No, en este caso no se puede circular.",
+            "Sí, por la derecha, ocupando la parte imprescindible de la calzada.",
+            "Sí, por el centro del carril derecho."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_280.jpg",
+        "id": 281,
+        "imageSrc": "/images/th_280.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En las vías con tres calzadas, ¿por cuál se le permite a usted circular en su sentido si conduce su turismo?.",
+        "answers": [
+            "Por la de la derecha y la central, salvo señalización en contrario.",
+            "Por la central.",
+            "Sólo por la de la derecha."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3275.jpg",
+        "id": 282,
+        "imageSrc": "/images/th_3275.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta vía, ¿por dónde debe circular un ciclomotor?.",
+        "answers": [
+            "Por la calzada o el arcén.",
+            "Por la calzada, lo más cerca posible del borde derecho.",
+            "Por el arcén de la derecha."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1079.jpg",
+        "id": 283,
+        "imageSrc": "/images/th_1079.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Por este cebreado, ¿está permitido circular con un ciclomotor?.",
+        "answers": [
+            "Sí, porque todos los vehículos de dos ruedas pueden circular por los cebreados.",
+            "Sí, porque está obligado a circular por el arcén.",
+            "No, por las zonas cebreadas está prohibido circular siempre."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1957.jpg",
+        "id": 284,
+        "imageSrc": "/images/th_1957.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Una motocicleta, ¿tiene permitido circular por un carril habilitado en sentido contrario al habitual?.",
+        "answers": ["Sí, pero sólo si se habilita por obras.", "No.", "Sí."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1704.jpg",
+        "id": 285,
+        "imageSrc": "/images/th_1704.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": " En un puesto de peaje, entra por un carril con luz verde",
+        "answers": [
+            "Pasar sin detenerme porque la luz está verde.",
+            "Detenerme para pagar o coger el ticket de entrada."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4588.jpg",
+        "id": 286,
+        "imageSrc": "/images/th_4588.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por qué carril debe circular un turismo en una autopista dentro de poblado?.",
+        "answers": [
+            "Por el carril de la derecha, pudiendo utilizar el resto sólo para adelantar.",
+            "Por el carril de la derecha, pudiendo utilizar el resto cuando las circunstancias del tráfico lo aconsejen.",
+            "Al ser una vía dentro de poblado, puede utilizar  el carril que mejor convenga a su destino."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2203.jpg",
+        "id": 287,
+        "imageSrc": "/images/th_2203.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por dónde debe circular en un cambio de rasante de reducida visibilidad?.",
+        "answers": [
+            "Dejando completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario.",
+            "Por donde más convenga a mi destino.",
+            "Por la izquierda, aunque se invada parte del centro de la calzada."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3869.jpg",
+        "id": 288,
+        "imageSrc": "/images/th_3869.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Para qué sirve el carril de aceleración?.",
+        "answers": [
+            "Para alcanzar 120 km/h antes de incorporarse a la vía.",
+            "Para incorporarse lentamente a la vía.",
+            "Para incorporarse a la vía a una velocidad adecuada a las circunstancias de la circulación."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1169.jpg",
+        "id": 289,
+        "imageSrc": "/images/th_1169.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor del vehículo que utiliza el carril adicional...",
+        "answers": [
+            "Deberá abandonar la vía en cuanto le sea posible.",
+            "Circulará, como máximo, a 100 km/h.",
+            "Llevará encendida, al menos, la luz de cruce."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4630.jpg",
+        "id": 290,
+        "imageSrc": "/images/th_4630.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En está vía urbana con dos carriles para cada sentido que no tienen lineas de separación de carriles,¿por qué carril debe circular?.",
+        "answers": [
+            "Por el carril que más convenga para mi destino.",
+            "Por el carril de la derecha y no puedo cambiar al segundo.",
+            "Por el de la derecha, y puedo circular por el segundo carril para adelantar."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1186.jpg",
+        "id": 291,
+        "imageSrc": "/images/th_1186.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta calzada de sentido único y tres carriles, ¿está bien situado el vehículo para realizar un cambio de dirección a la izquierda?.",
+        "answers": [
+            "Sí, si no circulan otros vehículos.",
+            "No, porque debe colocarse en el carril izquierdo.",
+            "Sí, porque no hay flechas en el pavimento."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3649.jpg",
+        "id": 292,
+        "imageSrc": "/images/th_3649.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un turismo, ¿Puede circular por un carril para VAO?.",
+        "answers": [
+            "Sí, aunque sólo lo ocupe su conductor.",
+            "No, este tipo de vehículos tiene el acceso prohibido a los carriles para VAO.",
+            "Sólo si está ocupado por el número de personas que se determine."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_394.jpg",
+        "id": 293,
+        "imageSrc": "/images/th_394.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un vehículo mixto en el que sólo viaja el conductor, ¿puede en algún caso, circular por un carril  para VAO?.",
+        "answers": [
+            "Sí, si el vehículo ostenta la señal de minusválido.",
+            "No porque debe estar ocupado por el número mínimo de personas que se fije.",
+            "Sí, si el conductor es novel."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_152.jpg",
+        "id": 294,
+        "imageSrc": "/images/th_152.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "No se tendrán en cuenta, a efectos de la normal utilización, los carriles...",
+        "answers": ["Reservados a determinados a vehículos.", "Especiales.", "Reversibles"],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3601.jpg",
+        "id": 295,
+        "imageSrc": "/images/th_3601.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En poblado, en calzadas con varios carriles para su sentido, delimitados por marcas longitudinales, usted con su turismo podrá utilizar...",
+        "answers": [
+            "Sólo el de más a la derecha. ",
+            "El que mejor convenga a mi destino. ",
+            "El derecho y el inmediato, únicamente. "
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3323.jpg",
+        "id": 296,
+        "imageSrc": "/images/th_3323.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor de un vehículo mixto adaptable, ¿tiene permitido circular por el carril que se observa en la fotografía?.",
+        "answers": [
+            "Sí, salvo prohibición expresa.",
+            "Sí, siempre.",
+            "No, estos carriles están limitados a turismos y motocicletas."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_813.jpg",
+        "id": 297,
+        "imageSrc": "/images/th_813.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía de doble sentido de circulación y tres carriles separados por marcas longitudinales discontinuas, ¿qué carril se utilizará para girar a la izquierda?.",
+        "answers": ["El carril derecho.", "El carril central.", "El carril izquierdo."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_538.jpg",
+        "id": 298,
+        "imageSrc": "/images/th_538.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Al cruzarse con el camión, ¿qué separación lateral debe mantener?.",
+        "answers": [
+            "La suficiente para realizar el cruce con seguridad.",
+            "2 metros como mínimo, fuera de poblado.",
+            "1,5 metros como mínimo, fuera de poblado."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2078.jpg",
+        "id": 299,
+        "imageSrc": "/images/th_2078.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En vías divididas en tres calzadas, la central podrá estar destinada a la circulación en…",
+        "answers": [
+            "Sentido único, en cualquier caso.",
+            "Los dos sentidos, siempre.",
+            "Los dos sentidos o en sentido único, según disponga la señalización."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_950.jpg",
+        "id": 300,
+        "imageSrc": "/images/th_950.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si usted conduce un turismo con remolque, ¿puede circular por un carril VAO?.",
+        "answers": ["Sí, si la masa máxima autorizada del conjunto no es superior a 3500kg.", "Sí.", "No."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4573.jpg",
+        "id": 301,
+        "imageSrc": "/images/th_4573.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Circula con un turismo por una autovía con tráfico muy denso, ¿está permitido circular por el arcén para tomar la siguiente salida?.",
+        "answers": ["Sí, con las luces de emergencia.", "Sí, para facilitar la fluidez.", "No"],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_197.jpg",
+        "id": 302,
+        "imageSrc": "/images/th_197.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una autopista de tres carriles en la que el derecho está libre, ¿Por qué carril es obligatorio circular?.",
+        "answers": [
+            "Por el izquierdo.",
+            "Por el derecho, como norma general.",
+            "Por el central, si la autopista es de poblado."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_685.jpg",
+        "id": 303,
+        "imageSrc": "/images/th_685.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Los vehículos que circulen por un carril adicional circunstancial deben hacerlo…",
+        "answers": [
+            "Utilizando, al menos, el alumbrado de cruce.",
+            "A una velocidad máxima de 60km/h",
+            "A una velocidad mínima de 30km/h"
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2060.jpg",
+        "id": 304,
+        "imageSrc": "/images/th_2060.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "La velocidad excesiva, ¿puede producir el efecto túnel?",
+        "answers": ["No, solo se produce por el consumo de alcohol", "Sí", "No"],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2270.jpg",
+        "id": 305,
+        "imageSrc": "/images/th_2270.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Fuera de poblado, en calzadas con cuatro carriles para el mismo sentido de la marcha, ¿por qué carril deberá circular el conductor de un furgón con masa máxima autorizada superior a 3.500 kilogramos?",
+        "answers": [
+            "Normalmente por el de su derecha, aunque podrá utilizar el inmediato cuando las circunstancias del tráfico o de la vía lo aconsejen, siempre que no entorpezca a otros conductores.",
+            "Normalmente por el de su derecha o por el inmediato, aunque podrá utilizar los otros dos carriles cuando las circunstancias del tráfico o de la vía lo aconsejen, siempre que no entorpezca a otros conductores.",
+            "Normalmente por el de su derecha, aunque podrá utilizar los otros tres carriles cuando las circunstancias del tráfico o de la vía lo aconsejen, siempre que no entorpezca a otros conductores."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4745.jpg",
+        "id": 306,
+        "imageSrc": "/images/th_4745.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Una motocicleta, ¿puede circular por un carril reversible?.",
+        "answers": ["Sí.", "No.", "Sí, siempre que circule como máximo a 80 km/h y como mínimo a 60km/h."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2185.jpg",
+        "id": 307,
+        "imageSrc": "/images/th_2185.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un turismo con remolque, ¿tiene permitido circular por un carril adicional circunstancial?.",
+        "answers": ["Si.", "No.", "Si, únicamente cuando el remolque sea ligero."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_962.jpg",
+        "id": 308,
+        "imageSrc": "/images/th_962.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si la vía está acondicionada con una raqueta u otro elemento similar, ¿debe utilizar dicho elemento para realizar un giro?.",
+        "answers": [
+            "Sí, pero sólo si lo indica una señal.",
+            "Sí, aunque no haya señal que lo indique",
+            "No, es indiferente"
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1333.jpg",
+        "id": 309,
+        "imageSrc": "/images/th_1333.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En vías de tres calzadas, como norma general, se utilizarán las de los laterales…",
+        "answers": [
+            "En un único sentido, sin perjuicio de que las autoridades puedan establecer otro sentido, que será señalizado oportunamente.",
+            "En ambos sentidos.",
+            "En un único sentido, cuando exista tráfico fluido."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_265.jpg",
+        "id": 310,
+        "imageSrc": "/images/th_265.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Cuál de éstas vías es una vía pública dentro de poblado?.",
+        "answers": ["Autopista.", "Travesía.", "Autovía."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1326.jpg",
+        "id": 311,
+        "imageSrc": "/images/th_1326.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿En esta situación puede circular por el carril central?.",
+        "answers": [
+            "Sí, si no se entorpece la marcha de otros vehículos que circulen detrás.",
+            "Sí, porque la vía no esta saturada.",
+            "No, debe circular por el carril derecho."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2192.jpg",
+        "id": 312,
+        "imageSrc": "/images/th_2192.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Se prohíbe circular por autopistas a los…",
+        "answers": [
+            "Vehículos con remolque.",
+            "Vehículos que no sean capaces de alcanzar en llano 60 km/h.",
+            "Vehículos que transporten mercancías peligrosas."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1055.jpg",
+        "id": 313,
+        "imageSrc": "/images/th_1055.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué vehículos pueden circular por un carril en sentido contrario al habitual habilitado para realizar trabajos en la vía?.",
+        "answers": [
+            "Sólo los turismos y cualquier vehículo de dos ruedas.",
+            "Todos los vehículos que puedan circular por esa vía, salvo prohibición expresa.",
+            "Sólo los turismos sin remolque y las motocicletas."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1922.jpg",
+        "id": 314,
+        "imageSrc": "/images/th_1922.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Al cruzarse con otros vehículos que circulan en sentido contrario, ¿qué separación lateral debe dejar una motocicleta?.",
+        "answers": [
+            "1,5 metros como máximo.",
+            "Una separación lateral suficiente para que el cruce pueda realizarse con seguridad y sin peligro.",
+            "1,5 metros como mínimo en cualquier caso."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2477.jpg",
+        "id": 315,
+        "imageSrc": "/images/th_2477.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Conduce un conjunto de vehículos compuesto por un turismo con remolque que mide más de 7 metros",
+        "answers": [
+            "Sólo el de mas a la derecha.",
+            "El derecho e inmediato si las circunstancias lo permiten.",
+            "Todos."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3291.jpg",
+        "id": 316,
+        "imageSrc": "/images/th_3291.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En general las autovías y autopistas son…",
+        "answers": [
+            "menos seguras que las carreteras convencionales.",
+            "mas seguras que las carreteras convencionales.",
+            "tan seguras como las carreteras convencionales."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_605.jpg",
+        "id": 317,
+        "imageSrc": "/images/th_605.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Cómo debe circular por un carril habilitado en sentido contrario al habitual?.",
+        "answers": [
+            "Como máximo a 80 km/h y mínimo a 60 km/h y, al menos, con la luz de cruce encendida.",
+            "A una velocidad moderada y, de noche, con la luz de cruce encendida en todo momento.",
+            "Como máximo a 100 km/h y mínimo a 80 km/h y, al menos, con la luz de cruce encendida."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2056.jpg",
+        "id": 318,
+        "imageSrc": "/images/th_2056.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Conduce su turismo por una autopista dentro de poblado, ¿qué carril debe utilizar para circular?.",
+        "answers": [
+            "El carril de la derecha, pudiendo utilizar el resto sólo para adelantar.",
+            "El de la derecha, pudiendo utilizar el resto cuando las circunstancias del tráfico lo aconsejen.",
+            "El carril por el que haya menos vehículos."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4585.jpg",
+        "id": 319,
+        "imageSrc": "/images/th_4585.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un ciclomotor en esta vía debe circular por…",
+        "answers": [
+            "El arcén de la derecha.",
+            "La calzada o el arcén, indistintamente.",
+            "La calzada, lo más cerca posible del borde derecho."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2213.jpg",
+        "id": 320,
+        "imageSrc": "/images/th_2213.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una travesía de dos carriles para cada sentido, ¿puede circular por el segundo carril para girar a la izquierda?.",
+        "answers": [
+            "No, porque en la travesía siempre debo circular por la derecha.",
+            "No, porque la travesía es una vía interurbana.",
+            "Sí, porque en la travesía debo circular igual que en las vías urbanas."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3958.jpg",
+        "id": 321,
+        "imageSrc": "/images/th_3958.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una calzada de sentido único en la que no existen marcas viales sobre el pavimento, ¿cuántos carriles pueden existir a efectos de su utilización?",
+        "answers": [
+            "Tantos carriles como filas de automóviles, que no sean motocicletas, puedan circular en paralelo.",
+            "Depende de la anchura de la calzada, sabiendo que cada carril debe tener una anchura mínima de 6 metros.",
+            "Un solo carril."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2361.jpg",
+        "id": 322,
+        "imageSrc": "/images/th_2361.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía urbana que tiene tres carriles para cada sentido ¿por dónde debe circular?",
+        "answers": [
+            "Depende de la velocidad de mi vehículo.",
+            "Por el carril derecho, estando permitido utilizar los otros solo para adelantar.",
+            "Por el carril que mejor convenga a mi destino."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2407.jpg",
+        "id": 323,
+        "imageSrc": "/images/th_2407.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿ A cuál de estos vehículos no se le permite circular por un carril de sentido contrario al habitual, como norma general?",
+        "answers": ["A los motocicletas.", "A los turismos.", "A los autobuses."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2250.jpg",
+        "id": 324,
+        "imageSrc": "/images/th_2250.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En vías interurbanas con tres carriles para el mismo sentido, ¿le está permitido circular por el carril izquierdo a un turismo con remolque?.",
+        "answers": [
+            "Sí, cuando la longitud del conjunto no supere los 7 metros.",
+            "Sí, pero sólo para adelantar a otros vehículos.",
+            "No, en ningún caso."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1196.jpg",
+        "id": 325,
+        "imageSrc": "/images/th_1196.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué normas se deben cumplir si se circula por el carril central de esta calzada?",
+        "answers": [
+            "Llevar encendida la luz de corto alcance y respetar el límite genérico de la vía.",
+            "Utilizar el alumbrado según las condiciones meteorológicas y circular a una velocidad máxima de 80 km/h.",
+            "Llevar encendida la luz de corto alcance y circular a una velocidad máxima de 80 km/h."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2357.jpg",
+        "id": 326,
+        "imageSrc": "/images/th_2357.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En las travesías, ¿se aplica la misma normativa que en las vías urbanas?.",
+        "answers": [
+            "Sí.",
+            "No, porque en las travesías se aplican las normas de la carretera correspondiente.",
+            "No, porque en las travesías se aplican las normas de las carreteras convencionales."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3162.jpg",
+        "id": 327,
+        "imageSrc": "/images/th_3162.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta vía, ¿es correcto circular por el centro de la calzada?.",
+        "answers": [
+            "Sí, porque no hay marcas que delimiten los carriles.",
+            "Sí, porque la calzada es muy estrecha.",
+            "No, se circulará por la derecha de la calzada, lo más cerca posible del borde derecho."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1486.jpg",
+        "id": 328,
+        "imageSrc": "/images/th_1486.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Conduce su turismo por una autopista dentro de poblado, ¿qué carril utilizará normalmente?.",
+        "answers": [
+            "El carril de la derecha, pudiendo utilizar el resto solo para adelantar.",
+            "El carril por el que haya menos vehículos.",
+            "El de la derecha, pudiendo utilizar el resto cuando las circustancias del tráfico lo aconsejen."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4699.jpg",
+        "id": 329,
+        "imageSrc": "/images/th_4699.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "La anchura de una calzada estrecha es menor de....",
+        "answers": ["6 metros.", "5 metros.", "6,5 metros."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4783.jpg",
+        "id": 330,
+        "imageSrc": "/images/th_4783.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía urbana, un camión de 3.500 kg",
+        "answers": [
+            "Por el carril derecho, pudiendo utilizar el inmediato para adelantar.",
+            "Por el carril derecho y puede utilizar el resto de carriles para adelantar.",
+            "Por el carril que más convenga a su destino."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4611.jpg",
+        "id": 331,
+        "imageSrc": "/images/th_4611.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta vía de doble sentido de circulación no existen marcas en la calzada",
+        "answers": [
+            "Por la derecha de la calzada, dejando completamente libre la mitad correspondiente al sentido contrario.",
+            "Por la izquierda de la calzada, porque hay más visibilidad.",
+            "Por el centro de la calzada porque no existen marcas viales que separen los sentidos."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4372.jpg",
+        "id": 332,
+        "imageSrc": "/images/th_4372.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Está permitido que las motocicletas circulen por un carril para VAO?.",
+        "answers": [
+            "No, porque las motocicletas no pueden ser VAO.",
+            "No, porque por estos carriles solo pueden circular autobuses y turismos.",
+            "Sí, las motocicletas y turismos pueden utilizar este carril."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_615.jpg",
+        "id": 333,
+        "imageSrc": "/images/th_615.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Con una motocicleta, ¿está permitido circular por un carril VAO?.",
+        "answers": [
+            "No.",
+            "Sí, cuando esté ocupada por el número de personas fijado para cada tramo de vía. ",
+            "Sí, cuando esté ocupada por dos personas."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1835.jpg",
+        "id": 334,
+        "imageSrc": "/images/th_1835.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El tractor agrícola de la fotografía, de MMA inferior a 3500 Kg, ¿circula correctamente?.",
+        "answers": [
+            "No, pues debe utilizar el carril derecho.",
+            "No, pues puede utilizar cualquier parte de la vía.",
+            "Sí. "
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3614.jpg",
+        "id": 335,
+        "imageSrc": "/images/th_3614.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede utilizar el carril VAO un turismo con un remolque ligero?.",
+        "answers": [
+            "No, está prohibido.",
+            "Sí, está prohibido sólo para remolques pesados.",
+            "Sí, pueden circular todo tipo de vehículos, excepto los camiones cuya MMA exceda de 3,500 kg."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2479.jpg",
+        "id": 336,
+        "imageSrc": "/images/th_2479.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta autopista, ¿por qué carril debe circular?.",
+        "answers": [
+            "Por el carril de la derecha normalmente.",
+            "Por el carril que más convenga a su destino.",
+            "Por el carril de la izquierda."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3519.jpg",
+        "id": 337,
+        "imageSrc": "/images/th_3519.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor de un vehículo mixto adaptable, ¿tiene permitido circular por el carril que  se observa en la fotografía?.",
+        "answers": [
+            "Sí, salvo prohibición expresa.",
+            "Sí, siempre.",
+            "No, estos carriles están limitados a turismos y motocicletas."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_608.jpg",
+        "id": 338,
+        "imageSrc": "/images/th_608.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un túnel de un solo carril, ¿qué distancia de seguridad debe guardar al menos con el vehículo que va delante?",
+        "answers": ["50 metros o 2 segundos.", "150 metros o 6 segundos.", "100 metros o 4 segundos."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4774.jpg",
+        "id": 339,
+        "imageSrc": "/images/th_4774.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Qué vehículos tienen prohibido circular por una autopista?.",
+        "answers": [
+            "Los ciclos, ciclomotores y vehículos de tracción animal.",
+            "Los vehículos que transportan mercancías explosivas o inflamables.",
+            "Los vehículos especiales y los vehículos de tracción animal."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2170.jpg",
+        "id": 340,
+        "imageSrc": "/images/th_2170.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor de una motocicleta, ¿puede circular por un carril reversible?.",
+        "answers": [
+            "Sí.",
+            "No.",
+            "Sí, a una velocidad máxima de 80 kilómetros por hora y mínima de 60 kilómetros por hora."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2421.jpg",
+        "id": 341,
+        "imageSrc": "/images/th_2421.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Se permite a los ciclomotores circular por el arcén en columna de a dos?",
+        "answers": [
+            "Sí, de forma excepcional cuando el arcén sea transitable y suficiente.",
+            "Si, siempre.",
+            "No, nunca."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2277.jpg",
+        "id": 342,
+        "imageSrc": "/images/th_2277.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un túnel, ¿qué distancia de seguridad debe dejar con el vehículo que circula delante?.",
+        "answers": [
+            "Únicamente la distancia suficiente para no colisionar en caso de frenado brusco.",
+            "100 metros, al menos, cuando no se pretenda adelantar.",
+            "200 metros."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3746.jpg",
+        "id": 343,
+        "imageSrc": "/images/th_3746.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una vía con tres calzadas separadas, ¿por qué calzada se debe circular?",
+        "answers": [
+            "Solo por la calzada central.",
+            "Solo por la calzada de la derecha.",
+            "Por la calzada de la derecha y por la central cuando haya señales que así me lo permitan."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2295.jpg",
+        "id": 344,
+        "imageSrc": "/images/th_2295.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un tramo de vía con un carril de aceleración, ¿se considera adelantamiento que un vehículo avance más rápidamente que otro que lo hace por el carril normal?",
+        "answers": ["Sí, porque se trata de una vía interurbana.", "No.", "Sí, como otro adelantamiento cualquiera."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3809.jpg",
+        "id": 345,
+        "imageSrc": "/images/th_3809.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede circular una furgoneta por un carril adicional?",
+        "answers": ["Sí, siempre.", "No, nunca", "Sí, siempre que lleve encendida la luz de corto alcance."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2386.jpg",
+        "id": 346,
+        "imageSrc": "/images/th_2386.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Para abandonar una autopista debe incorporarse al carril de deceleración… ",
+        "answers": ["En cualquier lugar del mismo.", "Lo antes posible.", "Al final del mismo."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1508.jpg",
+        "id": 347,
+        "imageSrc": "/images/th_1508.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Por la izquierda de una línea continua, ¿se puede circular?.",
+        "answers": ["Sí, para adelantar.", "No, en ningún caso.", "Sí, si la vía es de sentido único."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1073.jpg",
+        "id": 348,
+        "imageSrc": "/images/th_1073.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un vehículo mixto en el que solo viaja el conductor, ¿puede, en algún caso, circular por un carril para VAO? .",
+        "answers": [
+            "Sí, si el conductor es novel.",
+            "No, porque debe estar ocupado por el número mínimo de personas que se fije.",
+            "Sí, si el vehículo ostenta la señal de minusválido."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1516.jpg",
+        "id": 349,
+        "imageSrc": "/images/th_1516.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si conduce un vehículo para personas de movilidad reducida, ¿puede entrar en la vía donde esté colocada esta señal?.",
+        "answers": [
+            "No, está prohibido.",
+            "Sí, ya que solo prohíbe a ciclomotores de 2 ruedas.",
+            "No, ya que prohíbe la entrada a todos los vehículos de 2 ruedas."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2509.jpg",
+        "id": 350,
+        "imageSrc": "/images/th_2509.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una calzada con dos sentidos y tres carriles, separados por marcas longitudinales discontinuas, ¿qué carril debe usar?.",
+        "answers": [
+            "Debe circular por el carril que más convenga a su destino. ",
+            "Debe circular por el carril situado más a la derecha, y podrá utilizar el central únicamente para adelantar. ",
+            "Debe circular por el carril situado más a la derecha. "
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1659.jpg",
+        "id": 351,
+        "imageSrc": "/images/th_1659.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Fuera de poblado, en una vía con tres carriles para su sentido de la marcha, ¿qué vehículos no pueden utilizar el tercer carril?.",
+        "answers": [
+            "Los vehículos de más de 3.500 kg de MMA.",
+            "Los conjuntos de vehículos de más de 5 m de longitud.",
+            "Los camiones y furgones con MMA superior a 3.500 kg."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_562.jpg",
+        "id": 352,
+        "imageSrc": "/images/th_562.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un ciclomotor, ¿tiene permitido circular por un carril para VAO?.",
+        "answers": [
+            "Sí, pero sólo si va ocupado por una persona.",
+            "No, está prohibido.",
+            "Sí, moderando la velocidad."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_219.jpg",
+        "id": 353,
+        "imageSrc": "/images/th_219.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta vía urbana con dos carriles para cada sentido que no tiene líneas de separación de carriles",
+        "answers": [
+            "Por el carril que más convenga a mi destino.",
+            "Por el carril de la derecha y no puedo cambiar al segundo.",
+            "Por el de la derecha, y puedo circular por el segundo carril para adelantar."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3620.jpg",
+        "id": 354,
+        "imageSrc": "/images/th_3620.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una calzada con dos sentidos hay un refugio en el centro",
+        "answers": [
+            "  Por el lado izquierdo del refugio.",
+            "Por cualquiera de ellos, indistintamente.",
+            "Por el lado derecho del refugio."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1566.jpg",
+        "id": 355,
+        "imageSrc": "/images/th_1566.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un cuadriciclo ligero, ¿puede circular por una autopista o una autovía?.",
+        "answers": [
+            "Sí, si circula por el arcén.",
+            "No, ni por autopista ni por autovía.",
+            "Por autovía sí, por autopista no."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_829.jpg",
+        "id": 356,
+        "imageSrc": "/images/th_829.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede un conductor novel circular con su turismo por un carril VAO?",
+        "answers": [
+            "No, es una de las restricciones que tiene durante el primer año.",
+            "Sí, y además por esta vía puede alcanzar los 90 km/h.",
+            "Sí."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2251.jpg",
+        "id": 357,
+        "imageSrc": "/images/th_2251.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Está permitido circular por el arcén de esta autovía, sin causa justificada?.",
+        "answers": ["No, porque está prohibido.", "Sí, si lo hace a velocidad reducida.", "Sí, si no molesta."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1965.jpg",
+        "id": 358,
+        "imageSrc": "/images/th_1965.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un carril reversible...",
+        "answers": [
+            "Debe circular como máximo a 100Km/h y como mínimo a 60 Km/h.",
+            "Debe llevar encendida la luz de cruce siempre.",
+            "No debe cambiar nunca de carril salvo para adelantar."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3833.jpg",
+        "id": 359,
+        "imageSrc": "/images/th_3833.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En esta calzada, ¿circula correctamente este vehículo?.",
+        "answers": [
+            "Sí, si es necesario y la seguridad de la circulación se lo permite.",
+            "Sí, pero sólo si está adelantando.",
+            "No, porque no se puede circular sobre la línea discontinua."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2013.jpg",
+        "id": 360,
+        "imageSrc": "/images/th_2013.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Está permitido que un turismo utilice un tramo de carril reservado para autobuses delimitado por una línea discontinua?.",
+        "answers": [
+            "Sí, pero sólo para cambiar de dirección a la derecha. ",
+            "Sí, para realizar cualquier maniobra que no sea parar, estacionar, cambiar de sentido o adelantar.",
+            "No, siempre está prohibido. "
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3705.jpg",
+        "id": 361,
+        "imageSrc": "/images/th_3705.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Una vía que discurre por espacios abiertos, jardines o bosques, que está segregada del tráfico motorizado y destinada a la circulación de peatones y ciclos, ¿qué tipo de vía es?.",
+        "answers": ["Una vía urbana.", "Una calle residencial.", "Una senda ciclable."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4407.jpg",
+        "id": 362,
+        "imageSrc": "/images/th_4407.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "No se tienen en cuenta, a efectos de la normal utilización, los carriles...",
+        "answers": ["especiales.", "reversibles.", "reservados a ciertas maniobras."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1626.jpg",
+        "id": 363,
+        "imageSrc": "/images/th_1626.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": " Al incorporarse a la autopista por el carril de aceleración, debe...",
+        "answers": [
+            "Disminuir la velocidad y detenerse al final del carril, obligatoriamente. \t",
+            "Acelerar hasta alcanzar obligatoriamente 120 km/h al final del carril.",
+            "Acelerar hasta alcanzar la velocidad adecuada al final del carril."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4608.jpg",
+        "id": 364,
+        "imageSrc": "/images/th_4608.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Esta carretera tiene más de 6 m de ancho",
+        "answers": [
+            "Sí, cuando no vienen vehículos en sentido contrario.",
+            "No, porque debo circular dentro de mi carril.",
+            "Sí, porque hay dos carriles."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3668.jpg",
+        "id": 365,
+        "imageSrc": "/images/th_3668.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un vehículo mixto en el que sólo viaja el conductor, ¿puede, en algún caso, circular por un carril para VAO?.",
+        "answers": [
+            "Sí, si el conductor es novel.",
+            "No, porque debe estar ocupado por el número mínimo de personas que se fije.",
+            "Sí, si el vehículo ostenta la señal de minusválidos."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_477.jpg",
+        "id": 366,
+        "imageSrc": "/images/th_477.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por qué no circula usted correctamente por este carril de la autopista si los otros carriles están libres?.",
+        "answers": [
+            "Porque debo circular por el carril de más a la izquierda. ",
+            "Porque debo circular por el carril de más a la derecha como regla general. ",
+            "Porque debo circular por el arcén. "
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3194.jpg",
+        "id": 367,
+        "imageSrc": "/images/th_3194.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El conductor del turismo que circula por el carril central…",
+        "answers": [
+            "Circula por un carril reversible.",
+            "Debe llevar al menos dos ocupantes.",
+            "No puede utilizar este carril."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1378.jpg",
+        "id": 368,
+        "imageSrc": "/images/th_1378.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Los resaltos en los pasos para peatones, ¿se consideran obstáculos en la calzada?.",
+        "answers": [
+            "No, siempre que se garantice la seguridad vial de los usuarios y especialmente de los ciclistas.",
+            "Sí, puesto que dificultan el cruce de los pasos de peatones.",
+            "Sí, cuando son metálicos."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1478.jpg",
+        "id": 369,
+        "imageSrc": "/images/th_1478.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Al abandonar una autovía deberá…",
+        "answers": [
+            "Reducir la velocidad a 60 km/h.",
+            "Cambiar al carril más próximo a la salida y entrar en el carril de deceleración lo antes posible.",
+            "Continuar por su carril hasta la salida."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1108.jpg",
+        "id": 370,
+        "imageSrc": "/images/th_1108.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un túnel con un solo carril para cada sentido, un vehículo de más de 3.500 kg de MMA debe mantener una distancia de seguridad de….",
+        "answers": [" 200 metros.", "100 metros, al menos.", "150 metros, al menos."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1955.jpg",
+        "id": 371,
+        "imageSrc": "/images/th_1955.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "La inscripción “BUS” dentro de un carril indica que es…",
+        "answers": [
+            "Un carril reservado para la circulación de autobuses.",
+            "Un carril destinado al estacionamiento de autobuses.",
+            "Una zona de la vía reservada sólo a turismos y autobuses."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1045.jpg",
+        "id": 372,
+        "imageSrc": "/images/th_1045.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Circula con su motocicleta por una autopista o autovía donde la circulación está saturada, ¿puede utilizar el arcén para tomar una salida que se encuentra próxima?.",
+        "answers": [
+            "Sí, si conduzco a una velocidad muy reducida.",
+            "No, no está permitido.",
+            "Sí, si la motocicleta es de dos ruedas."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2168.jpg",
+        "id": 373,
+        "imageSrc": "/images/th_2168.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por dónde debe circular en una curva de visibilidad reducida?.",
+        "answers": [
+            "por el carril derecho, ceñido al eje de la calzada.",
+            "Ocupando parte del sentido contrario, para que los demás me vean con mayor facilidad.",
+            "Dejando completamente libre la mitad de la calzada que corresponde al sentido contrario."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1699.jpg",
+        "id": 374,
+        "imageSrc": "/images/th_1699.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un carril delimitado por marcas longitudinales dobles discontinuas es un carril ...",
+        "answers": ["Reversible.", "De sentido contrario al habitual.", "Adicional."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4284.jpg",
+        "id": 375,
+        "imageSrc": "/images/th_4284.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Una motocicleta, ¿puede circular por una vía donde se ha habilitado un carril adicional?.",
+        "answers": [
+            "No.",
+            "Sí, pero sólo puede circular por el carril adicional.",
+            "Sí, pudiendo circular tanto por el arcén como por el carril adicional."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1718.jpg",
+        "id": 376,
+        "imageSrc": "/images/th_1718.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El semáforo cuadrado tiene la flecha verde encendida y el semáforo circular está rojo.¿Qué debe hacer?",
+        "answers": [
+            "Detener el vehículo antes del semáforo cuadrado con flecha verde.",
+            "Detener el vehículo antes del semáforo circular rojo.",
+            "Circular sin detenerme."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4690.jpg",
+        "id": 377,
+        "imageSrc": "/images/th_4690.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Puede circular con la línea de borde de la calzada entre las ruedas?.",
+        "answers": [
+            "Sí, porque las líneas de borde no se consideran marcas longitudinales y esta permitido rebasarlas o circular con ellas entre las ruedas, en todo caso.",
+            "Sí, pero únicamente cuando existan razones que obliguen a circular utilizando, en todo o en parte, el arcén.",
+            "No."
+        ],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2109.jpg",
+        "id": 378,
+        "imageSrc": "/images/th_2109.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una autopista, ¿le está permitido, como norma general, utilizar los pasos de la mediana existentes cada cierta distancia para hacer un cambio de sentido de la marcha?",
+        "answers": ["Sí. ", "No. ", "Sí, si lo realizo con la máxima precaución. "],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3374.jpg",
+        "id": 379,
+        "imageSrc": "/images/th_3374.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Antes de entrar en la autopista, debe…",
+        "answers": [
+            "Detenerse donde tenga visibilidad, para observar si se aproximan vehículos a los que debe ceder el paso. ",
+            "Incorporarse rápidamente a la vía a una velocidad adecuada a la misma. ",
+            "Tener en cuenta la posición, trayectoria y velocidad de los vehículos que puedan aproximarse, para cederles el paso e incorporarse a la circulación."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1907.jpg",
+        "id": 380,
+        "imageSrc": "/images/th_1907.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una intersección en la que es previsible quedarse detenido, ¿qué debe hacer si tiene prioridad de paso?.",
+        "answers": [
+            "No entrar en la intersección.",
+            "Pasar y apartarse a un lado si obstaculiza la circulación.",
+            "Pasar porque tiene prioridad de paso."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2041.jpg",
+        "id": 381,
+        "imageSrc": "/images/th_2041.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un vehículo especial que carece de señalización de frenado, ¿qué velocidad máxima puede alcanzar circulando por una vía fuera de poblado?",
+        "answers": ["70 Kilómetros por hora. ", "25 Kilómetros por hora.", "40 Kilómetros por hora."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3292.jpg",
+        "id": 382,
+        "imageSrc": "/images/th_3292.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "El tractor de menos de 3.500 kg de MMA, ¿circula correctamente por el arcén?.",
+        "answers": ["No, porque debe circular por el carril derecho.", "Sí.", "Sí, pero solamente en caso de avería."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1591.jpg",
+        "id": 383,
+        "imageSrc": "/images/th_1591.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Cuando una calzada tenga habilitado un carril adicional circunstancial, ¿Qué vehículos deben llevar encendida, al menos, la luz de cruce?.",
+        "answers": [
+            "Tanto los que circulen por el arcén como los que circulen por el carril adicional.",
+            "Sólo los que circulen por el arcén.",
+            "Sólo los que circulen por el carril adicional."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2074.jpg",
+        "id": 384,
+        "imageSrc": "/images/th_2074.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por qué parte de la vía tiene que circular con un vehículo?.",
+        "answers": [
+            "Por la derecha, ceñido al borde derecho.",
+            "Por el centro para tener mas visibilidad.",
+            "Por la derecha, ceñido al eje central."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1781.jpg",
+        "id": 385,
+        "imageSrc": "/images/th_1781.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Los vehículos que circulen por el arcén tienen prohibido circular en posición paralela, excepto…",
+        "answers": ["Los que circulen muy despacio.", "Los ciclomotores y las motocicletas.", "Las bicicletas."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_290.jpg",
+        "id": 386,
+        "imageSrc": "/images/th_290.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En caso de circular por un carril reversible abierto, ¿se permite atravesar la línea doble discontínua de la izquierda para adelantar?",
+        "answers": ["Sí, al estar libre el carril de la izquierda.", "Sí, porque la línea es discontínua.", "No."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2488.jpg",
+        "id": 387,
+        "imageSrc": "/images/th_2488.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una calzada con dos sentidos hay una isleta en el centro; ¿por qué lado está permitido circular?.",
+        "answers": [
+            "Por el lado derecho de la isleta, en el sentido de la marcha.",
+            "Por el lado izquierdo de la isleta,en el sentido de la marcha.",
+            "Por cualquiera de ellos, indistintamente."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4686.jpg",
+        "id": 388,
+        "imageSrc": "/images/th_4686.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Se puede recoger a un autoestopista en una autopista?.",
+        "answers": ["Sí, siempre.", "No, nunca.", "Sí, si el autoestopista va solo."],
+        "correctAnswerIndex": 1,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2451.jpg",
+        "id": 389,
+        "imageSrc": "/images/th_2451.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En una autopista en caso de avería, ¿está permitido circular por el arcén izquierdo?.",
+        "answers": [
+            "No, porque está prohibido que los turismos circulen por el arcén.",
+            "Sí, cuando la avería le haya sucedido circulando por el carril izquierdo.",
+            "No, debe circular por el carril o el arcén de la derecha."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3581.jpg",
+        "id": 390,
+        "imageSrc": "/images/th_3581.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "No se tendrán en cuenta, a efectos de la normal utilización, los carriles…",
+        "answers": ["Reservados a determinados vehículos.", "Especiales.", "Reversibles."],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_992.jpg",
+        "id": 391,
+        "imageSrc": "/images/th_992.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En un carril VAO, ¿puede circular un turismo que arrastra un remolque de menos de 750 kg de MMA?.",
+        "answers": [" Sí, siempre.", "Sí, pero sólo de día.", "No."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_114.jpg",
+        "id": 392,
+        "imageSrc": "/images/th_114.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "En las autovías, se permite circular...",
+        "answers": [
+            "Por los arcenes, a conductores de bicicletas mayores de 14 años, salvo que se prohíba por señal.",
+            "A vehículos de tracción animal.",
+            "A peatones."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3793.jpg",
+        "id": 393,
+        "imageSrc": "/images/th_3793.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Un conjunto de vehículos, cuya longitud es de 7,30 metros si circula por una vía con tres carriles para el mismo sentido de circulación, ¿qué carriles puede utilizar?.",
+        "answers": [
+            "Solamente el derecho.",
+            "Cualquiera de ellos, indistintamente.",
+            "El de la derecha y el inmediato únicamente cuando las circunstancias del tráfico o de la vía lo aconsejen."
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4328.jpg",
+        "id": 394,
+        "imageSrc": "/images/th_4328.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Por dónde se debe circular en un cambio de rasante de reducida visibilidad?.",
+        "answers": [
+            "Dejando completamente libre la mitad de la calzada que corresponda a los que puedan circular en sentido contrario.",
+            " Por la izquierda, aunque se invada parte del centro de la calzada.",
+            "Por donde más convenga a mi destino."
+        ],
+        "correctAnswerIndex": 0,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4603.jpg",
+        "id": 395,
+        "imageSrc": "/images/th_4603.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "Si circula por un carril de aceleración, ¿debe ceder el paso a los vehículos que circulan por la vía a la que pretende incorporarse?.",
+        "answers": ["No, porque tengo prioridad.", "No, si me incorporo por la derecha.", "Sí."],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3923.jpg",
+        "id": 396,
+        "imageSrc": "/images/th_3923.jpg"
+    },
+    {
+        "issues": "La vía",
+        "question": "¿Circula usted correctamente como normal general por esta vía interurbana?.",
+        "answers": [
+            "Sí, porque se trata de una vía fuera de poblado. ",
+            "Sí.",
+            "No, porque debo circular por la derecha de la calzada. "
+        ],
+        "correctAnswerIndex": 2,
+        "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3210.jpg",
+        "id": 397,
+        "imageSrc": "/images/th_3210.jpg"
     }
 ]

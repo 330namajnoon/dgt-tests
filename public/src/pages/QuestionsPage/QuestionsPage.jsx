@@ -8,6 +8,7 @@ import Select from "@mui/material/Select";
 import Typography from "@mui/material/Typography";
 import { Box, Container } from "@mui/system";
 import { useSetAnswerMutation } from "../../features/dgt/dgtAnswerApiSlice";
+import { BASE_URL } from "../../../constants";
 
 const QuestionsPage = () => {
     const [issue, setIssue] = useState("0");
@@ -46,7 +47,7 @@ const QuestionsPage = () => {
                     {randomQuestionData?.imageSrc && (
                         <Box mt={2} mb={2}>
                             <img
-                                src={"http://localhost:3000" + randomQuestionData.imageSrc}
+                                src={BASE_URL + randomQuestionData.imageSrc}
                                 style={{ maxWidth: "100%" }}
                                 onError={(e) => (e.target.style.display = "none")}
                             />
