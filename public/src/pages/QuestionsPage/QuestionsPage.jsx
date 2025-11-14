@@ -44,9 +44,10 @@ const QuestionsPage = () => {
                 </Select>
             </FormControl>
             <Container>
-                <Box>
-                    <Typography variant="h1">
+                <Box mt={4} mb={4} textAlign="center">
+                    <Typography variant="h3">
                         {pointsData?.points}
+                        %
                     </Typography>
                 </Box>
             </Container>
