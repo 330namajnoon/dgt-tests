@@ -9,7 +9,7 @@ export const dgtQuestionsApiSlice = apiSlice.injectEndpoints({
         }),
         getRandomQuestion: builder.query({
             query: (issue) => `/random-question?issue=${issue}`,
-            providesTags: ["RandomQuestion", "Points"],
+            providesTags: ["RandomQuestion"],
         }),
     }),
     overrideExisting: false, // ← por seguridad, no sobrescribe otros endpoints

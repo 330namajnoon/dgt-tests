@@ -9,7 +9,7 @@ export const dgtAnswerApiSlice = apiSlice.injectEndpoints({
                 method: "POST",
                 body: { questionId, answer },
             }),
-            invalidatesTags: ["RandomQuestion"],
+            invalidatesTags: ["RandomQuestion", "Points"],
         }),
     }),
     overrideExisting: false, // ← por seguridad, no sobrescribe otros endpoints
