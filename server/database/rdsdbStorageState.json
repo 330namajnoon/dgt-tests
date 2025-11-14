@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "rdsdb6_session",
+      "value": "od3cbqbitlco01l9435bsqilur",
+      "domain": ".rdsdb.digimobil.es",
+      "path": "/",
+      "expires": 1763136972.02768,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSO-RCS-RDS-RO-SESSION-V6",
+      "value": "Mzk2NGU0NzEtMDllNC00ZmIxLTgxODMtZjljNjAwMzllNDEw",
+      "domain": ".sso.digimobil.es",
+      "path": "/",
+      "expires": 1763151383.082714,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "SSO-RES-V5",
+      "value": "R2xSWjRNZExSQkkwenFnRU5lTVh1YTlCeFNCYWhPcFR0ODE1V3F5bDh5UUNtSldVV3dDbUg3VmMxSGNFZkp4ZTZ3cWdaa3RSZjlHcjZXVGtIclJiQ1I4dGVaRnZUNWMxU2pSY1dXL2NpM2NlYkZGOG1CSm5VMzlWS1ovdjZ3UFRGSnFuc0pQNU52TWZlbkpVaC9Ea2hibXZqTm1mdWl0Z1pnSlhCRWUvSy8wPQ==",
+      "domain": ".sso.digimobil.es",
+      "path": "/",
+      "expires": 1763151388.238114,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "session",
+      "value": "5d8d4eaeb9cbab2269c051fe70b74acd",
+      "domain": ".rdsdb.digimobil.es",
+      "path": "/",
+      "expires": 1763136988.982329,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "rdsdb5_remote",
+      "value": "oEQ9wjnTBTAjS8cfC6Ij9w%3D%3D",
+      "domain": ".rdsdb.digimobil.es",
+      "path": "/",
+      "expires": 1763136988.982466,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}

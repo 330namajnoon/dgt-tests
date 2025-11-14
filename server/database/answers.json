@@ -1,0 +1,569 @@
+[
+  {
+    "issues": "Los demás usuarios",
+    "question": "Fuera de poblado, todo peatón, cuando circule por la calzada o el arcén de noche, deberá...",
+    "answers": [
+      "Ir provisto de un elemento luminoso o retrorreflectante visible a 150 metros como mínimo por los que se aproximen.",
+      "Ir provisto de un elemento luminoso siempre que sea visible a 300 metros como mínimo por los que se aproximen. "
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3396.jpg",
+    "id": 30,
+    "imageSrc": "/images/th_3396.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Qué infracción de los peatones suele ser una causa de atropello?.",
+    "answers": [
+      "Cruzar la calzada cuando el semáforo está en amarillo intermitente. ",
+      "Cruzar la calzada lentamente. ",
+      "Cruzar la calzada sin utilizar los pasos para peatones. "
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1873.jpg",
+    "id": 44,
+    "imageSrc": "/images/th_1873.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los peatones de edad avanzada…",
+    "answers": [
+      "Nunca tienen problemas de orientación.",
+      "A veces encuentran difícil apreciar la velocidad a la que se acercan los vehículos.",
+      "Distinguen perfectamente los colores de los semáforos."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_700.jpg",
+    "id": 29,
+    "imageSrc": "/images/th_700.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los vehículos que circulen por el arcén tienen prohibido circular en posición paralela, excepto….",
+    "answers": [
+      "Las bicicletas.",
+      "Los que circulen muy despacio.",
+      "Los ciclomotores y las motocicletas."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1256.jpg",
+    "id": 98,
+    "imageSrc": "/images/th_1256.jpg",
+    "ok": 3,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Es correcto que los animales invadan la zona peatonal?.",
+    "answers": [
+      "Sí y se pueden dejar en la vía pública sin custodia aunque exista posibilidad de que puedan invadir la vía. ",
+      "No, ni se pueden dejar en la vía pública sin custodia siempre que exista posibilidad de que puedan invadir la vía. "
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3428.jpg",
+    "id": 61,
+    "imageSrc": "/images/th_3428.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los vehículos de tracción animal, ¿tienen permitido circular por autopistas y autovías?.",
+    "answers": [
+      "Por autopistas no, por autovías sí.",
+      "Sí, por ambas.",
+      "No."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_367.jpg",
+    "id": 94,
+    "imageSrc": "/images/th_367.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los accidentes de tráfico son una de las principales causas de mortalidad en nuestro país, especialmente entre… ",
+    "answers": [
+      "Los jóvenes entre 15 y 29 años.",
+      "Los niños y la gente mayor de 70 años.",
+      "La gente mayor de 70 años."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1569.jpg",
+    "id": 51,
+    "imageSrc": "/images/th_1569.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Por dónde puede circular un peatón que empuja un carrito?.",
+    "answers": [
+      "Solo por zonas peatonales.",
+      "Por zonas peatonales, por el arcén o por la calzada.",
+      "Solo por la calzada."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2439.jpg",
+    "id": 133,
+    "imageSrc": "/images/th_2439.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Al circular, durante el día, por el carril contiguo a uno habilitado en sentido contrario al habitual, ¿debe llevar encendida alguna luz?.",
+    "answers": [
+      "No.",
+      "Sí, la de corto alcance, al menos.",
+      "Sí, la de posición."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3577.jpg",
+    "id": 72,
+    "imageSrc": "/images/th_3577.jpg",
+    "ok": 0,
+    "ko": 1
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Una persona en silla de ruedas, ¿puede circular por una carretera?.",
+    "answers": [
+      "Sí, pero sólo si existe acera o zona peatonal.",
+      "Sí, por el arcén si es transitable y, si no lo es, por la calzada.",
+      "No, no puede circular."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_248.jpg",
+    "id": 36,
+    "imageSrc": "/images/th_248.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Si no existe vía pecuaria, ¿pueden los animales transitar por las vías públicas?.",
+    "answers": [
+      "Sí, siempre.",
+      "No, nunca pueden utilizar las vías públicas.",
+      "Sí, excepto por autopistas y autovías."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1664.jpg",
+    "id": 59,
+    "imageSrc": "/images/th_1664.jpg",
+    "ok": 0,
+    "ko": 1
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los peatones de edad avanzada...",
+    "answers": [
+      "Distinguen perfectamente los colores de los semáforos. ",
+      "Nunca tienen problemas de orientación. ",
+      "A veces encuentran difícil apreciar la velocidad a la que se acercan los vehículos."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3640.jpg",
+    "id": 92,
+    "imageSrc": "/images/th_3640.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Para evitar los accidentes con motocicletas es recomendable…",
+    "answers": [
+      "No circular en paralelo con los vehículos de dos ruedas.",
+      "Reducir la distancia de seguridad para ver mejor a la motocicleta.",
+      "Circular en paralelo con estos vehículos."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_454.jpg",
+    "id": 113,
+    "imageSrc": "/images/th_454.jpg",
+    "ok": 2,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Fuera de poblado, entre el ocaso y la salida del sol, un peatón que transite por la calzada o el arcén debe llevar un …",
+    "answers": [
+      "Elemento luminoso o reflectante que pueda verse a una distancia de al menos 150 metros.",
+      "Catadióptrico de color rojo.",
+      "Chaleco de color amarillo o naranja."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_889.jpg",
+    "id": 79,
+    "imageSrc": "/images/th_889.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Si un peatón lleva un elemento retroflectante, ¿a qué distancia tiene que ser visible?.",
+    "answers": [
+      "A  50 metros.",
+      "A 150 metros.",
+      "A 100 metros."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4561.jpg",
+    "id": 117,
+    "imageSrc": "/images/th_4561.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Están obligados a utilizar casco, tanto si circulan por vías interurbanas como por vías urbanas y travesías…",
+    "answers": [
+      "Los conductores y pasajeros de motocicletas de dos ruedas, con o sin sidecar.",
+      "Solamente los conductores y pasajeros de motocicletas de dos ruedas sin sidecar.",
+      "Solamente los conductores de motocicletas de dos ruedas sin sidecar."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_642.jpg",
+    "id": 118,
+    "imageSrc": "/images/th_642.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los niños, ¿cuándo es más frecuente que tengan accidentes?.",
+    "answers": [
+      "Al final de la jornada escolar.",
+      "Los fines de semana.",
+      "Al inicio de la jornada escolar. "
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1868.jpg",
+    "id": 104,
+    "imageSrc": "/images/th_1868.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Cuando los ciclistas circulen por el arcén, ¿podrán abandonarlo si la seguridad lo permite?.",
+    "answers": [
+      "No, si disponen de arcén nunca pueden circular por la calzada.",
+      "Sí, en los descensos prolongados con curvas, salvo en autovías.",
+      "Sí, siempre que lo crean conveniente."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_540.jpg",
+    "id": 48,
+    "imageSrc": "/images/th_540.jpg",
+    "ok": 0,
+    "ko": 1
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Está permitida la circulación de animales por una carretera convencional?.",
+    "answers": [
+      "No.",
+      "Sí, únicamente cuando no exista vía pecuaria.",
+      "Sí, excepto cuando circulen en rebaño."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3440.jpg",
+    "id": 76,
+    "imageSrc": "/images/th_3440.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Por qué las personas mayores corren más peligro en el tráfico?.",
+    "answers": [
+      "Porque suelen valorar correctamente la velocidad de los vehículos.",
+      "Porque suelen ver y oír peor.",
+      "Porque son menos ágiles, aunque suelen reaccionar más rápidamente."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1192.jpg",
+    "id": 74,
+    "imageSrc": "/images/th_1192.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los conductores de bicicletas, ¿pueden circular por los arcenes de las autopistas?.",
+    "answers": [
+      "Sí, siempre.",
+      "Sí, cuando sean mayores de 14 años.",
+      "No, en ningún caso."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_285.jpg",
+    "id": 137,
+    "imageSrc": "/images/th_285.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "El accidente de motocicleta más frecuente es…",
+    "answers": [
+      " La colisión por alcance de vehículos que van a más velocidad.",
+      "La colisión frontal con otras motocicletas.",
+      " La colisión frontal o frontolateral con otro vehículo."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1441.jpg",
+    "id": 114,
+    "imageSrc": "/images/th_1441.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿A partir de qué edad aumenta de forma importante la mortalidad en los accidentes de tráfico?.",
+    "answers": [
+      "A partir de los 29 años.",
+      "A partir de los 15 o 16 años, por los conductores de ciclomotores.",
+      "No existe ninguna edad específica."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3507.jpg",
+    "id": 143,
+    "imageSrc": "/images/th_3507.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Fuera de poblado donde no exista zona peatonal, ¿por dónde están obligados a circular los peatones como norma general? .",
+    "answers": [
+      "Es indiferente.",
+      "Por su izquierda.",
+      "Por su derecha."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1330.jpg",
+    "id": 27,
+    "imageSrc": "/images/th_1330.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Tienen los peatones zona de incertidumbre?.",
+    "answers": [
+      "No.",
+      "Sí."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3284.jpg",
+    "id": 46,
+    "imageSrc": "/images/th_3284.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los jóvenes suelen realizar más maniobras de riesgo…",
+    "answers": [
+      "Cuando van solos.",
+      "Tanto cuando van solos como cuando van acompañados.",
+      "Cuando van acompañados."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_646.jpg",
+    "id": 52,
+    "imageSrc": "/images/th_646.jpg",
+    "ok": 2,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "La parte delantera del vehículo, ¿porqué no debe modificarse?.",
+    "answers": [
+      "Porque el vehículo pierde velocidad punta.",
+      "Únicamente porque lo prohíben las normas.",
+      "Porque suele estar diseñada para evitar lesiones a los peatones."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3914.jpg",
+    "id": 13,
+    "imageSrc": "/images/th_3914.jpg",
+    "ok": 2,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los vehículos de tracción animal que circulan por el arcén, ¿tienen permitido circular en paralelo con otro vehículo?",
+    "answers": [
+      "Sí, si el arcén es lo suficientemente ancho.",
+      "Sí, si se trata de un ciclomotor.",
+      "No, está prohibido."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_587.jpg",
+    "id": 73,
+    "imageSrc": "/images/th_587.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Muchos atropellos a peatones se producen cuando los vehículos…",
+    "answers": [
+      "Se disponen a entrar en un garaje.",
+      "Estacionan en la acera.",
+      "Circulan marcha atrás porque el conductor no ha visto al peatón."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_428.jpg",
+    "id": 31,
+    "imageSrc": "/images/th_428.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "El conductor de un turismo circula por un túnel en el que está prohibido adelantar, ¿qué distancia de seguridad debe mantener con el vehículo que le precede?",
+    "answers": [
+      "Al menos 100 metros, o un intervalo mínimo de 4 segundos.",
+      "Al menos 150 metros, o un intervalo mínimo de 6 segundos.",
+      "Al menos 50 metros, o un intervalo mínimo de 2 segundos."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4759.jpg",
+    "id": 17,
+    "imageSrc": "/images/th_4759.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "La falta de experiencia al volante...",
+    "answers": [
+      "Es una de las causas de los accidentes protagonizados por jóvenes.",
+      "Repercute positivamente en la conducción, porque el conductor inexperto es más prudente.",
+      "No incide directamente en la producción de accidentes."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4698.jpg",
+    "id": 141,
+    "imageSrc": "/images/th_4698.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Los peatones se consideran usuarios de la vía?.",
+    "answers": [
+      "No.",
+      ".",
+      "Sí."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1529.jpg",
+    "id": 102,
+    "imageSrc": "/images/th_1529.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "En poblado, ¿por dónde deben circular los peatones?.",
+    "answers": [
+      "Deben circular únicamente por la zona peatonal de la derecha.",
+      "Podrán circular por la zona peatonal de la derecha o de la izquierda.",
+      "Circularán por la izquierda según su sentido de marcha."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2167.jpg",
+    "id": 111,
+    "imageSrc": "/images/th_2167.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Un vehículo de tracción animal, ¿Puede circular por autopistas o autovías?.",
+    "answers": [
+      "Por autopistas no, por autovías sí.",
+      "Sí.",
+      "No."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_4342.jpg",
+    "id": 1,
+    "imageSrc": "/images/th_4342.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Qué error más común cometen los peatones?.",
+    "answers": [
+      "Rodear las glorietas.",
+      "No respetar los semáforos peatonales.",
+      "Cruzar la calzada en perpendicular."
+    ],
+    "correctAnswerIndex": 1,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_2053.jpg",
+    "id": 106,
+    "imageSrc": "/images/th_2053.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "¿Qué es la zona de incertidumbre?.",
+    "answers": [
+      "Es la zona de duda que rodea a los animales, peatones o vehículos. ",
+      "Es la zona de duda que rodea a los animales solamente en la que se pueden mover de modo imprevisto.",
+      "Es la zona de duda que rodea sólo a los peatones en la que se pueden mover de modo imprevisto."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_3267.jpg",
+    "id": 2,
+    "imageSrc": "/images/th_3267.jpg",
+    "ok": 1,
+    "ko": 0
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "En una vía interurbana con arcén, ¿Qué vehículos pueden circular de dos en dos?.",
+    "answers": [
+      "Los ciclomotores y las bicicletas.",
+      "Los vehículos lentos.",
+      "Sólo las bicicletas."
+    ],
+    "correctAnswerIndex": 0,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_1969.jpg",
+    "id": 18,
+    "imageSrc": "/images/th_1969.jpg",
+    "ok": 0,
+    "ko": 1
+  },
+  {
+    "issues": "Los demás usuarios",
+    "question": "Los accidentes de ciclistas, ¿dónde se producen con mayor frecuencia?.",
+    "answers": [
+      "Dentro de poblado.",
+      "En las autopistas.",
+      "En las carreteras convencionales."
+    ],
+    "correctAnswerIndex": 2,
+    "imgSrc": "http://cdn.testautoescuelaonline.com/img/preguntas/th_775.jpg",
+    "id": 35,
+    "imageSrc": "/images/th_775.jpg",
+    "ok": 0,
+    "ko": 1
+  }
+]
